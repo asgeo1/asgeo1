@@ -1,30 +1,26 @@
 ### Hi there 👋
 
-I'm Adam George, a freelance software developer from Melbourne, Australia.
+I'm Adam George, a freelance software developer from Melbourne, Australia, running [Blue Frog Software](https://bluefrogsoftware.com.au).
 
-I've been working as a software developer since 2002. In that time I've worked in many different industries - energy, transport, digital design, eCommerce.
+I've been building software professionally since 2002 across energy, transport, digital design, and eCommerce — for large companies, startups, and individuals getting projects off the ground.
 
-I've worked for large companies, and I've worked for startups, I've also worked for small businesses and individuals wanting to get a project off the ground.
+I can manage a project end-to-end (requirements through to deployment and support), or focus on a single piece — a mobile app, a backend API, a frontend rebuild.
 
-I'm capable of managing an entire project end-to-end; requirements, analysis, design - through to building, testing, deploying and support.
+[Website & Portfolio](https://www.adamgeorge.com) · [LinkedIn](https://www.linkedin.com/in/asgeo1) · [Stack Overflow](https://stackoverflow.com/users/172973/asgeo1)
 
-Or I'm available to just concentrate on single thing - say a mobile app, or backend API.
-
-Checkout my [website](https://www.adamgeorge.com) or my [Linkedin](https://www.linkedin.com/in/asgeo1) to get in contact with me. My [portfolio](https://www.adamgeorge.com) if you want to see some of my work.  I'm also on [Stack Overflow](https://stackoverflow.com/users/172973/asgeo1), or take a look at my freelance business [Blue Frog Software](https://www.bluefrogsoftware.com.au).
-
-----
+---
 
 ## Skills & Experience
 
-I've been a developer a fair while now, so I've had time to learn a number of different technologies to a decent standard.  I'm still doing work with all of these technologies regularly:
-
- - **Backend:** Ruby on Rails, Node.js, PHP
- - **Frontend:** React, Angular, Javascript/Typescript
- - **Mobile:** React Native, Ionic Framework, Objective-C/iOS, Java/Android
- - **Databases:** MySQL / PostgreSQL / MongoDB
- - **DevOps:** Docker / Ansible
- - **Hosting:** AWS / Digital Ocean / Linode
- - **Favourite Tools**: Vim, Git, *nix
+| | |
+|---|---|
+| **Backend** | Ruby on Rails, Node.js, PHP |
+| **Frontend** | React, Next.js, TypeScript |
+| **Mobile** | React Native, Ionic, Capacitor |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **DevOps** | Docker, Ansible |
+| **Hosting** | AWS, DigitalOcean, Linode |
+| **Tools** | Vim, Git, *nix |
 
 
 <!--
